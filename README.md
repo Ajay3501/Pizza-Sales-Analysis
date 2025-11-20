@@ -89,22 +89,6 @@ The dataset contains transactional pizza order data with the following columns:
 - Top & bottom pizzas by revenue/quantity  
 - Average pizzas per order  
 - Trend analysis using **GROUP BY**, **Sub Queries**, **Window Functions** etc. 
-
----
-
-## 📂 Project Structure
-
-📦 Pizza-Sales-Analysis
-│
-├── SQL/
-│ ├── pizza_sales_queries.sql # All SQL analysis queries
-│
-├── PowerBI/
-│ ├── pizza_sales_dashboard.pbix # Power BI dashboard
-│
-└── README.md
-
-
 ---
 
 ## 🚀 Key Highlights

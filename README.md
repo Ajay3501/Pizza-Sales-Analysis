@@ -90,6 +90,18 @@ The dataset contains transactional pizza order data with the following columns:
 - Average pizzas per order  
 - Trend analysis using **GROUP BY**, **Sub Queries**, **Window Functions** etc. 
 ---
+## 📊 Power BI Dashboard
+
+Below are the screenshots of the interactive dashboard created using Power BI:
+
+### 👉 **Dashboard Overview**
+
+#### **Dashboard Page 1**
+<img width="1316" height="715" alt="Screenshot 2025-11-20 181300" src="https://github.com/user-attachments/assets/6dbf32ce-8696-4645-b10d-eea6c85a8252" />
+
+#### **Dashboard Page 2**
+<img width="1312" height="717" alt="Screenshot 2025-11-20 181224" src="https://github.com/user-attachments/assets/e430979c-abc8-49c6-a968-7b31a45be121" />
+
 
 ## 🚀 Key Highlights
 
